@@ -1,0 +1,30 @@
+Blockchain and Fashion: the upcoming merging and how it will change fashion forever.
+Preface
+I am not by any means a qualified expert or financial advisor. However, I suppose I know enough about both fashion and blockchain that I can write a short book about their upcoming merging.
+Dedicated to my mother
+C1: What is it, and why does it matter?
+Blockchain
+Blockchain is an industry based on a simple but revolutionary idea. I’ll go into more detail.
+The idea is this: if one user requests a transaction, it must go through a network of computers that will in turn agree that the transaction is viable and makes sense. The transaction is recorded in a block, and that block is added to a chain of blocks in a way that makes it impossible to change the previous block. After all of this, the transaction is completed.
+The blockchain can store anything of value, where value equals tokens.
+
+As you can see, the simple idea of the blockchain finally creates a distributed system of truth- that is powerful in both philosophical and practical ways.
+The idea of the Blockchain was proposed in 2008 by a mystery person whose name was Satoshi Nakamoto.
+Fashion
+Fashion is an industry that every single human being comes into contact with regularly- all of us need to buy clothes, right? 
+As of now, the product side of fashion looks something like this:
+Haute Couture -> Ready to Wear -> Designer -> Ateliers -> Fast Fashion
+But the behind-the-scenes view is a little more complex, and it looks something like this:
+Designers (ideas) -> Workers (creation) -> Influencers (popularization) -> Photographers (popularization) -> Buyers (get the clothes to the stores) -> Customers
+Why merge the two?
+The World Wide Web had a great impact on the industry of fashion, and the blockchain is potentially just as revolutionary. As of 2018, fashion has a problem- inequality. For example, workers in Pakistan do not get paid a living wage (if we’re talking about fast fashion), models of color or trans models do not get enough exposure, and so on. Humankind can use the blockchain to eradicate this problem.
+
+ C2: Some examples of the proposed models of Blockchain in the fashion industry
+NEEDS RESEARCH AND WORK
+
+C3: How will we as a species go about doing it?
+
+C4: Examples of how we can successfully merge the two
+
+
+
